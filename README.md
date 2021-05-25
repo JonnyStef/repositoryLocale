@@ -1,0 +1,2 @@
+# repositoryLocale
+ local
